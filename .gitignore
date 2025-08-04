@@ -1,1 +1,8 @@
+# Docker .gitignore file
+
+# vs code settings
+.vscode/*
+
+# private projects
 infrastructure/*
+guacamole/*
